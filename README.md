@@ -27,19 +27,14 @@ This is a simple command-line shopping cart application written in Python. It al
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/shopping-cart.git
+   git clone https://github.com/your-username/Simple-E_commerce-Cart-System-Programming-Exercise.git
    ```
 
-2. Navigate to the project directory:
+
+2. Run the application:
 
    ```bash
-   cd shopping-cart
-   ```
-
-3. Run the application:
-
-   ```bash
-   python main.py
+   python E-Commerce.py
    ```
 
 ## Usage
